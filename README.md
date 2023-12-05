@@ -6,7 +6,7 @@ I started programming when I was 8 by reading this obscenely thick and heavy "C+
 
 **Bachata** music is a genre that comes from the Dominican Republic. It evolved in the 1960s from **bolero** music, which African slaves in Cuba had invented much earlier. Until the 1990s, bachata used acoustic guitars and fairly traditional musical techniques, and was perceived as being just for poor Dominicans.
 
-Starting in the early 1990s with the introduction of a new electric guitar pedal which used advanced signal processing to create unique effects, combined with radio station owners looking for new content, bachata music suddenly became much more popular in the DR than ever before. Now, it was for everybody, not just those poor Dominicans.
+Starting in the early 1990s with the introduction of a new electric guitar pedal, the Ibanez PT-4, which used advanced signal processing to create unique effects, combined with radio station owners looking for new content from *bachateros* like Antony Santos, bachata music suddenly became much more popular in the DR than ever before. Now, it was for everybody, not just those poor Dominicans.
 
 Things were looking a little different in the United States. Also in the 1990s, several boys in the Bronx decided to make a bachata band of their own. Unfortunately, after making a few songs, they got bored because their bachata sounded largely the same and not much different from others. Some time passed and a music producer suggested a name change to "Aventura" and to stop "trying to fit in." They then combined this traditional music with newer concepts like funk bass and drum machines and got laughed off the stages.
 
