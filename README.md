@@ -1,8 +1,8 @@
-Hi! I'm Jackson, a student at the University of Central Florida studying Optics & Photonics Engineering and Leadership. 
+Hi! I'm Jackson and I'm studying Optics & Photonics Engineering and Leadership at the University of Central Florida.
 
 I started programming when I was 8 by reading this obscenely thick and heavy "C++11 Primer" textbook cover to cover.
 
-<details><summary><picture><source srcset="ProfilePicture.png" height="30px"/><img src="ProfilePicture.png" alt="About my profile picture" height="30px"/></picture></summary>
+<details><summary><picture><source src="ProfilePicture.png" height="30px"/><img src="ProfilePicture.png" alt="About my profile picture" height="30px"/></picture></summary>
 
 **Bachata** music is a genre that comes from the Dominican Republic. It evolved in the 1960s from **bolero** music, which African slaves in Cuba had invented much earlier. Until the 1990s, bachata used acoustic guitars and fairly traditional musical techniques, and was perceived as being just for poor Dominicans.
 
